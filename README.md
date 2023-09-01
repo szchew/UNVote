@@ -1,1 +1,3 @@
 # UNVote
+
+There have been consistent geopolitical blocs in the world since the establishment of the United Nations and current political and geopolitical tensions across the world affect how countries view different international issues. In this project, we are aiming to analyze the correlation between the voting patterns of the different United Nations countries and the geopolitical blocs that those countries were in. This is to discover whether issues tend to be voted on a black-and-white basis, or were there more nuances of grey. In our report, we found that although geopolitical blocs tend to vote extremely similarly to one another, most issues voted on were not extremely polarised, with the exceptions of resolutions relating to human rights.
